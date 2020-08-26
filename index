@@ -1,0 +1,1091 @@
+# T5Elementstechnosolution.github.io<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<meta charset="UTF-8">
+		
+		<!-- For IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+
+		<!-- For Resposive Device -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>T5 Elements Techno Solution</title>
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/t5.png">
+
+
+		<!-- Main style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<!-- responsive style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/responsive.css">
+
+
+		<!-- Fix Internet Explorer ______________________________________-->
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="vendor/html5shiv.js"></script>
+			<script src="vendor/respond.js"></script>
+		<![endif]-->
+			
+	</head>
+	
+	<body>
+		<div class="main-page-wrapper">
+
+
+
+			<!-- 
+			=============================================
+				Theme Header
+			============================================== 
+			--></div>
+			<header class="theme-main-header">
+				<div class="container">
+					<a href="index.html" class="logo float-left tran4s"><img src="images/logo/t5logo.png" alt="Logo"></a>
+					
+					<!-- ========================= Theme Feature Page Menu ======================= -->
+					<nav class="navbar float-right theme-main-menu one-page-menu">
+					   <!-- Brand and toggle get grouped for better mobile display -->
+					   <div class="navbar-header">
+					     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+					       <span class="sr-only">Toggle navigation</span>
+					       Menu
+					       <i class="fa fa-bars" aria-hidden="true"></i>
+					     </button>
+					   </div>
+					   <!-- Collect the nav links, forms, and other content for toggling -->
+					   <div class="collapse navbar-collapse" id="navbar-collapse-1">
+					     <ul class="nav navbar-nav">
+					       	<li class="active"><a href="#home">HOME</a></li>
+							<li><a href="#about-us">ABOUT</a></li>
+							<li><a href="#service-section">SERVICES</a></li>
+							<li><a href="#project-section">Vision</a></li>
+							<li><a href="#team-section">TEAM</a></li>
+							<li><a href="#skill-section">Skill</a></li>
+							<li><a href="#our-client">CLIENTS</a></li>
+							<li><a href="#pricing-section">Pricing</a></li>
+							<li class="dropdown-holder"><a href="#blog-section">BLOG</a>
+								<ul class="sub-menu">
+					       			<li><a href="blog-details.html" class="tran3s">Blog Details</a></li>
+					       		</ul>
+							</li>
+							<li><a href="#contact-section">CONTACT</a></li>
+					     </ul>
+					   </div><!-- /.navbar-collapse -->
+					</nav> <!-- /.theme-feature-menu -->
+				</div>
+				
+			</header> <!-- /.theme-main-header -->
+
+
+			<!--
+			=====================================================
+				Theme Main SLider
+			=====================================================
+			-->
+			<div id="home" class="banner">
+	        	<div class="rev_slider_wrapper">
+					<!-- START REVOLUTION SLIDER 5.0.7 auto mode -->
+						<div id="main-banner-slider" class="rev_slider video-slider" data-version="5.0.7">
+							<ul>
+
+								<!-- SLIDE1  -->
+								<li data-index="rs-100" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-thumb="images/home/slide1.jpg" data-masterspeed="default"  data-title="" data-description="">
+									<!-- MAIN IMAGE -->
+									<img src="images/home/slide1.jpg"  alt="image" class="rev-slidebg" data-bgparallax="3" data-bgposition="center center" 
+									data-duration="20000" data-ease="Linear.easeNone" data-kenburns="on" data-no-retina=""
+									 data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" 
+									 data-scaleend="100" data-scalestart="140" img-fluid>
+								</li>
+								<!-- SLIDE2  -->
+								<li data-index="rs-20" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" 
+								data-masterspeed="default"  data-thumb="video/slide2.jpg"  data-rotate="0"  data-saveperformance="off"  
+								data-title="" data-description="">
+									<!-- MAIN IMAGE -->
+									<img src="video/slide2.jpg"  alt="image" class="rev-slidebg" data-bgparallax="3"
+									 data-bgposition="center center" data-duration="10000" data-ease="Linear.easeNone" data-kenburns="on" 
+									 data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" 
+									 data-scaleend="100" data-scalestart="140">
+								</li>
+								<!-- SLIDE3  -->
+								<li data-index="rs-18" data-transition="fade" data-slotamount="default" data-easein="default" 
+								data-easeout="default" data-masterspeed="default"  data-thumb="images/home/slide3.jpg"  data-rotate="0"  
+								data-saveperformance="off"  data-title="" data-description="">
+									<!-- MAIN IMAGE -->
+									<img src="images/home/slide3.jpg"  alt="image" class="rev-slidebg" data-bgparallax="3" 
+									data-bgposition="center center" data-duration="20000" data-ease="Linear.easeNone" 
+									data-kenburns="on" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" 
+									data-rotateend="0" data-rotatestart="0" data-scaleend="100" data-scalestart="140">
+									<!-- LAYERS -->
+								</li>
+							</ul>
+								
+						</div>
+						
+				</div><!-- END REVOLUTION SLIDER -->
+	        </div> <!--  /#banner -->
+
+
+
+	        <!--
+			=====================================================
+				About us Section
+			=====================================================
+			-->
+			<section id="about-us">
+				<div class="container">
+					<div class="theme-title">
+						<h2>ABOUT</h2>
+						
+						<p>Learning is a journey and in this journey we are always their by your side.
+							We believe that true education is not by books or video,  it is by mentoring the students on personal grounds so that their doubts are cleared as soon as it hits the mind
+							We focus on fundamentals to make the base strong and then help you build the building by yourself.
+							You take a step forward we will teach you how drive through your path.
+						</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-6">
+							<div class="single-about-content">
+								<div class="icon round-border tran3s">
+									 <img src="images/logo/javadevelopment.png">
+									
+								</div>
+								<h5><a href="#" class="tran3s">Java Development</a></h5>
+								<p>Learn the Java programming language.Oops Concepts, Data types,
+									libraries, File Handling,Advance Java and more.
+								</p>
+								<!-- <a href="#" class="more tran3s hvr-bounce-to-right">More Details</a> -->
+							</div> <!-- /.single-about-content -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-3 col-md-3 col-sm-6">
+							<div class="single-about-content">
+								<div class="icon round-border tran3s">
+									<img src="images/logo/phpdevelopment.png">
+								</div>
+								<h5><a href="#" class="tran3s">PHP Development</a></h5>
+								<p>Learn the PHP is a server scripting language. Array, Variables,Php form,Php Advance and more.</p>
+								<!-- <a href="#" class="more tran3s hvr-bounce-to-right">More Details</a> -->
+							</div> <!-- /.single-about-content -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-3 col-md-3 col-sm-6">
+							<div class="single-about-content">
+								<div class="icon round-border tran3s">
+									<img src="images/logo/graphics.png">
+								</div>
+								<h5><a href="#" class="tran3s">Graphics Design</a></h5>
+								<p>A graphic design is the process of visual communication. The skill of combining text and pictures in a row. Graphic designers create and merge symbols, images and text to form a visual delegation of ideas and information. 
+								</p>
+								<!-- <a href="#" class="more tran3s hvr-bounce-to-right">More Details</a> -->
+							</div> <!-- /.single-about-content -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-3 col-md-3 col-sm-6">
+							<div class="single-about-content">
+								<div class="icon round-border tran3s">
+									<img src="images/logo/ux.png">
+								</div>
+								<h5><a href="#" class="tran3s">UX/UI Design</a></h5>
+								<p>Learn the  UX/UI with this quick and easy course.We increase user engagement with simple, user-friendly, professional &
+									impressive UI/UX design for websites.</p>
+								<!-- <a href="#" class="more tran3s hvr-bounce-to-right">More Details</a> -->
+							</div> <!-- /.single-about-content -->
+						</div> <!-- /.col -->
+					</div> <!-- /.row -->
+				</div> <!-- /.container -->
+			</section> <!-- /#about-us -->
+
+
+			<!--
+			=====================================================
+				Service Section
+			=====================================================
+			-->
+			<div id="service-section">
+				<div class="container">
+					<div class="theme-title">
+						<h2>SERVICES </h2>
+						<p>We make Developer,Programmer And Better Learner.We are provide free source code.</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-code" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">Web Design</a></h6>
+								</div>
+								<p>
+									Learn to build a website, discover interesting web design tools, and start your path to becoming a web designer.
+								</p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-photo" aria-hidden="true"></i></div>
+									
+									<h6><a href="#" class="tran3s">Graphic Design</a></h6>
+								</div>
+								<p>Learn about graphic design elements and principles with this exciting  graphic design course. </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">Web Development</a></h6>
+								</div>
+								<p>Learn to build a website from scratch, using JAVA,PHP and SQL with this online web development course.
+
+									</p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-bullhorn" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">Digital Marketing</a></h6>
+									
+								</div>
+								<p>
+									Learn to build coordinated Digital Marketing and promotion strategies for businesses with this  online course.
+								</p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-group" aria-hidden="true"></i></div>
+									
+									<h6><a href="#" class="tran3s">Online Classes</a></h6>
+								</div>
+								<p>Learn more about the skills and strategies on how to learn in an online environment with this  online course.
+									 </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-support" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">Support</a></h6>
+								</div>
+								<p>You can connect us on Skype,Linkedin,twitter,Tnstagram and Gmail.
+									 </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+					</div> <!-- /.row -->
+				</div> <!-- /.container -->
+			</div> <!-- /#service-section -->
+
+
+
+			<!--
+			=====================================================
+				Project Section
+			=====================================================
+			-->
+			<div id="project-section">
+				<div class="container">
+					<div class="theme-title">
+						<h2>OUR VISION</h2>
+						<p>Making small as well as big as a Web Development company our vision is gaining Student’s confidence and trust through
+							 quality and highly efficient work. We work with passion and dedication.</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="project-menu">
+						<ul>
+	        				<li class="filter active tran3s" data-filter="all">All</li>
+							<li class="filter tran3s" data-filter=".web">Web Design</li>
+							<li class="filter tran3s" data-filter=".photo">Graphic Design</li>
+							<li class="filter tran3s" data-filter=".webd">Web Development</li>
+							<li class="filter tran3s" data-filter=".om">Online Classes</li>
+							<li class="filter tran3s" data-filter=".dmedia">Digital Marketing</li>
+							<li class="filter tran3s" data-filter=".support">Support</li>
+	        			</ul>
+					</div>
+
+					<div class="project-gallery clear-fix">
+						<div class="mix grid-item photo om dmedia">
+							<div class="single-img">
+								<img src="images/project/stayhome.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Safe Learing</a></h6>
+										<ul>
+											<li>Distancing Learning /</li>
+											<li>Direct Study at home /</li>
+											<li>Stay Connected /</li>
+											<li>Safe Learning</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item web webd dmedia support">
+							<div class="single-img">
+								<img src="images/project/meet.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Live Classes</a></h6>
+										<ul>
+											<li>Easy Access /</li>
+											<li>Real-Time Learning /</li>
+											<li>Flexibility/</li>
+											<li>Global Knowledge</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item photo webd support">
+							<div class="single-img">
+								<img src="images/project/mentorsupport.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Mentor Support</a></h6>
+										<ul>
+											<li>Direction /</li>
+											<li>Advice /</li>
+											<li>Potential/</li>
+											<li>Goal</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item web om">
+							<div class="single-img">
+								<img src="images/project/online environment.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Online Environment</a></h6>
+										<ul>
+											<li>Virtual communication /</li>
+											<li>Continious feedback /</li>
+											<!-- <li>/</li>
+											<li></li> -->
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item photo webd dmedia om">
+							<div class="single-img">
+								<img src="images/project/5.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Active involvement of learners</a></h6>
+										<ul>
+											<li>Locus of control /</li>
+											<li>Learning styles /</li>
+											<li>Intrinsic motivation /</li>
+											<li>Flow</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item web webd dmedia om">
+							<div class="single-img">
+								<img src="images/project/expert.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Inovative Online Learning</a></h6>
+										<ul>
+											<li>Business /</li>
+											<li>Service /</li>
+											<li>Product /</li>
+											<li>Template</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item photo om support">
+							<div class="single-img">
+								<img src="images/project/book.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">High-Quality Teacher Traning Program</a></h6>
+										<ul>
+											<li>Business /</li>
+											<li>Service /</li>
+											<li>Product /</li>
+											<li>Template</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item web support">
+							<div class="single-img">
+								<img src="images/project/gain.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Gain The Best Learning</a></h6>
+										<ul>
+											<li>Business /</li>
+											<li>Service /</li>
+											<li>Product /</li>
+											<li>Template</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+						<div class="mix grid-item photo webd dmedia support">
+							<div class="single-img">
+								<img src="images/project/demo.jpg" alt="Image">
+								<div class="opacity">
+									<div class="border-shape"><div><div>
+										<h6><a href="#">Demo Classes</a></h6>
+										<ul>
+											<li>Free 2 Days Demo /</li>
+											<li>Purchase /</li>
+											<li>your  /</li>
+											<li>Courses</li>
+										</ul></div></div>
+									</div> <!-- /.border-shape -->
+								</div> <!-- /.opacity -->
+							</div> <!-- /.single-img -->
+						</div> <!-- /.grid-item -->
+
+					</div> <!-- /.project-gallery -->
+				</div> <!-- /.container -->
+			</div> <!-- /#project-section -->
+
+			<!--
+			=====================================================
+				Page middle banner
+			=====================================================
+			-->
+
+			<div class="page-middle-banner">
+				<div class="opacity">
+					<h3>We Create Creative <span class="p-color">&amp;</span> Best Unique Design</h3>
+					<!-- <a href="tel:+91 99770-42556">CLICK TO CALL NOW</a> -->
+				</div> <!-- /.opacity -->
+			</div> <!-- /.page-middle-banner -->
+
+
+			<!--
+			=====================================================
+				Team Section
+			=====================================================
+			-->
+			<div id="team-section">
+				<div class="container">
+					<div class="theme-title">
+						<h2>Meet our Team</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="clear-fix team-member-wrapper">
+						<div class="float-left">
+							<div class="single-team-member">
+								<div class="img">
+									<img src="images/team/alop.jpg" alt="Image">
+									<div class="opacity tran4s">
+										<h4>Alok Gupta</h4>
+										<span>Java Developer</span>
+										<p>M.C.A<br>Working on Java Development </p>
+									</div>
+								</div> <!-- /.img -->
+								<div class="member-name">
+									<h6>Alok Gupta</h6>
+									<p>Java Developer</p>
+									<ul>
+										<!-- <li><a href="https://www.facebook.com/people/Alok-Gupta/100009358268078" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="https://mobile.twitter.com/alokgupta483" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/in/alok-kumar-b77444128/https://www.linkedin.com/in/alok-kumar-b77444128/" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+										
+									</ul>
+								</div> <!-- /.member-name -->
+							</div> <!-- /.single-team-member -->
+						</div> <!-- /float-left -->
+
+						<div class="float-left">
+							<div class="single-team-member">
+								<div class="img">
+									<img src="images/team/dada.jpg" alt="Image">
+									<div class="opacity tran4s">
+										<h4>Chitrarup Mukhopadhyay</h4>
+										<span>Graphic & Web Designing</span>
+										<p>MSc.(I.T)<br> More than 10 years experience in Graphic,Web Designing,Audio &Video Production.Project and Technical Assistant in SISE Jabalpur under MP Council of Science and Technology.</p>
+									</div>
+								</div> <!-- /.img -->
+								<div class="member-name">
+									<h6>Chitrarup Mukhopadhyay </h6>
+									<p>Graphic & Web Designing</p>
+									<ul>
+										<!-- <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+										<!-- <li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li> -->
+										<!-- <li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+									</ul>
+								</div> <!-- /.member-name -->
+							</div> <!-- /.single-team-member -->
+						</div> <!-- /float-left -->
+
+						<div class="float-left">
+							<div class="single-team-member">
+								<div class="img">
+									<img src="images/team/3.jpg" alt="Image">
+									<div class="opacity tran4s">
+										<h4>Himanshu Gharoo</h4>
+										<span>Graphic Designer</span>
+										<p>M.C.A<br>
+											Working on Graphics designer  </p>
+									</div>
+								</div> <!-- /.img -->
+								<div class="member-name">
+									<h6>Himanshu Gharoo</h6>
+									<p>Graphic Designer</p>
+									<ul>
+										<!-- <li><a href="https://www.facebook.com/rhemu9" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="https://twitter.com/home" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/feed/" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+									</ul>
+								</div><!-- /.member-name -->
+							</div> <!-- /.single-team-member -->
+						</div> <!-- /float-left -->
+						<div class="float-left">
+							<div class="single-team-member ">
+								<div class="img center-block">
+									<img src="images/team/ravi.jpg" alt="Image" align="middle">
+									<div class="opacity tran4s">
+										<h4>Ravi Pratap Singh Tomar</h4>
+										<span>Digital Marketing</span>
+										<p>M.C.A 
+											<br> Working on Digital Marketing</p>
+									</div>
+								</div> <!-- /.img -->
+								<div class="member-name">
+									<h6>Ravi Pratap Singh Tomar</h6>
+									<p> Digital Marketing</p>
+									<ul>
+										<!-- <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+									</ul>
+									
+								</div><!-- /.member-name -->
+							</div> <!-- /.single-team-member -->
+						</div>
+						<div class="float-left ">
+							<div class="single-team-member">
+								<div class="img">
+									<img src="images/team/headache.jpg" alt="Image">
+									<div class="opacity tran4s">
+										<h4>Pragati Sahu</h4>
+										<span>Team Manager & Web Designer </span>
+										<p>M.C.A<br>Working on Web Designer ,Android Developer and Team Manager </p>
+									</div>
+								</div> <!-- /.img -->
+								<div class="member-name">
+									<h6>Pragati Sahu</h6>
+									<p>Team Manager & Web Designer</p>
+									<ul>
+										<!-- <li><a href="https://www.facebook.com/T5-Elements-Techno-Solution-102804504860123" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="https://twitter.com/home" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/feed/" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+									</ul>
+								</div><!-- /.member-name -->
+							</div> <!-- /.single-team-member -->
+						</div>
+
+						<!-- <div class="float-left">
+							<div class="single-team-member">
+								<div class="img">
+									<img src="images/team/3.jpg" alt="Image">
+									<div class="opacity tran4s">
+										<h4>Vacent</h4>
+										<span>Hiring</span>
+										<p>On the other hand, We denounce ut with righteo indignation and dislike men who are so beguiled and demoralized.</p>
+									</div>
+								</div> 
+								<div class="member-name">
+									<h6>Vacent</h6>
+									<p>Hiring</p>
+									<ul>
+										<!-- <li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="https://twitter.com/home" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.linkedin.com/feed/" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+									<!-- </ul> -->
+								<!-- </div>/.member-name -->
+							<!-- </div> /.single-team-member --> 
+						<!-- </div> -->
+					</div> <!-- /.team-member-wrapper -->
+				</div> <!-- /.conatiner -->
+			</div> <!-- /#team-section -->
+
+
+
+			<!--
+			=====================================================
+				Skill Section
+			=====================================================
+			-->
+			<div id="skill-section">
+				<div class="container">
+					<div class="clear-fix">
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+							<div class="img"><img src="images/home/success.jpg" alt="Image"></div>
+						</div> <!-- /.col- -->
+
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+							<div class="skills-progress skills">
+								<div class="habilidades_contenedor">
+							        <div class="codeconSkills">
+							            <div class="codeconSkillbar">
+							            	<div class="skill-text">
+							            		<span class="codeconSkillArea">Web Design</span>
+							            	</div>
+							                <div class="skillBar" data-percent="64%">
+							                	<span class="PercentText">64%</span>
+							                </div>
+							            </div>
+							            <div class="codeconSkillbar">
+							            	<div class="skill-text">
+							            		<span class="codeconSkillArea ">Graphic Design</span>
+							                    
+							            	</div>
+								            <div class="skillBar" data-percent="49%">
+								                <span class="PercentText">49%</span>
+								            </div>
+							            </div>
+								        <div class="codeconSkillbar">
+								        	<div class="skill-text">
+							            		<span class="codeconSkillArea">Java Development</span>
+							                    
+							            	</div>
+								            <div class="skillBar" data-percent="84%">
+								                <span class="PercentText">84%</span>
+								            </div>
+								        </div>
+								        <div class="codeconSkillbar">
+								        	<div class="skill-text">
+							            		<span class="codeconSkillArea">Php Developmenty</span>
+							                    
+							            	</div>
+								            <div class="skillBar" data-percent="76%">
+								                <span class="PercentText">76%</span>
+								            </div>
+								        </div>
+								        <div class="codeconSkillbar">
+								        	<div class="skill-text">
+							            		<span class="codeconSkillArea">Digital Marketing</span>
+							                    
+							            	</div>
+								            <div class="skillBar" data-percent="58%">
+								                <span class="PercentText ">58%</span>
+								            </div>
+								        </div>
+							    	</div> <!-- /.codeconSkills -->
+							    </div> <!-- /.habilidades_contenedor -->
+							</div> <!-- /.skills-progress -->
+						</div>
+					</div> <!-- /.clear-fix -->
+				</div> <!-- /.container -->
+			</div> <!-- /#skill-section -->
+
+
+
+			<!--
+			=====================================================
+				Our Client
+			=====================================================
+			-->
+			<div id="our-client">
+				<div class="container">
+					<div class="theme-title">
+						<h2>OUR HAPPY CLIENTS</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="client-slider">
+						<div class="item">
+							<img src="images/home/c1.jpg" alt="Client">
+							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
+							<h6>- Spryte Loriano -</h6>
+						</div> <!-- /.item -->
+						<div class="item">
+							<img src="images/home/c2.jpg" alt="Client">
+							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
+							<h6>- Spryte Loriano -</h6>
+						</div> <!-- /.item -->
+						<div class="item">
+							<img src="images/home/c3.jpg" alt="Client">
+							<p>Our successful construction approach is based on aggressive subcontractor administration, employ-ment of competent personnel, accurate schedule control, quality control and cost control. We employ only qualified subcontractors who share our goal in creating quality projects.</p>
+							<h6>- Spryte Loriano -</h6>
+						</div> <!-- /.item -->
+					</div> <!-- /.client-slider -->
+				</div> <!-- /.container -->
+			</div> <!-- /#our-client -->
+
+			
+
+			<!--
+			=====================================================
+				Pricing Section
+			=====================================================
+			-->
+			<div id="pricing-section">
+				<div class="container">
+					<div class="theme-title">
+						<!-- <h2>Pricing</h2> -->
+					</div>
+					<div class="clear-fix">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>Java Additional Cource Free Graphic Design</h4>
+								<p>Offer For 20 Students</p>
+								<strong class="color1">₹5000 <span>For 3months</span></strong>
+								<ul>
+									<!-- <li>3,600 Keywords</li>
+									<li>50 Social Accounts</li>
+									<li>25 Analytics Campaigns</li>
+									<li>45 Email Accounts</li> -->
+									<li>24/7 Support</li>
+								</ul>
+								<a href="video/payment.html" class="tran3s p-color-bg">BUY IT NOW</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>PHP Additional Cource Free Graphic Design</h4>
+								<p>Offer For 20 Students</p>
+								<strong class="color2">₹4000 <span>For 3months</span></strong>
+								<ul>
+									<!-- <li>3,600 Keywords</li>
+									<li>50 Social Accounts</li>
+									<li>25 Analytics Campaigns</li>
+									<li>45 Email Accounts</li> -->
+									<li>24/7 Support</li>
+								</ul>
+								<a href="video/payment.html" class="tran3s p-color-bg">BUY IT NOW</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>UI/UX Additional Cource Free Graphic Design</h4>
+								<p>Offer For 20 Students</p>
+								<strong class="color3">₹3000 <span>For 3months</span></strong>
+								<ul>
+									<!-- <li>3,600 Keywords</li>
+									<li>50 Social Accounts</li>
+									<li>25 Analytics Campaigns</li>
+									<li>45 Email Accounts</li> -->
+									<li>24/7 Support</li>
+								</ul>
+								<a href="video/payment.html" class="tran3s p-color-bg">BUY IT NOW</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+					</div>
+				</div> <!-- /.container -->
+			</div> <!-- /#pricing-section -->
+
+
+
+			<!--
+			=====================================================
+				Blog Section
+			=====================================================
+			-->
+			<div id="blog-section">
+				<div class="container">
+					<div class="theme-title">
+						<h2>OUR LATEST Blog</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+					</div> <!-- /.theme-title -->
+
+					<div class="clear-fix">
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+							<div class="single-news-item">
+								<div class="img"><img src="images/blog/1.jpg" alt="Image">
+									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+								</div> <!-- /.img -->
+
+								<div class="post">
+									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
+									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+								</div> <!-- /.post -->
+							</div> <!-- /.single-news-item -->
+						</div> <!-- /.col- -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+							<div class="single-news-item">
+								<div class="img"><img src="images/blog/2.jpg" alt="Image">
+									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+								</div> <!-- /.img -->
+
+								<div class="post">
+									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
+									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+								</div> <!-- /.post -->
+							</div> <!-- /.single-news-item -->
+						</div> <!-- /.col- -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+							<div class="single-news-item">
+								<div class="img"><img src="images/blog/3.jpg" alt="Image">
+									<a href="blog-details.html" class="opacity tran4s"><i class="fa fa-link" aria-hidden="true"></i></a>
+								</div> <!-- /.img -->
+
+								<div class="post">
+									<h6><a href="blog-details.html" class="tran3s">Playback: Akufo-Addo speaks to business community</a></h6>
+									<a href="blog-details.html">Posted by <span class="p-color">admin</span>  at 04 Feb, 2017</a>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis iaculis velit in tristique. Curabitur ac urna urna sed accumsan... <a href="blog-details.html" class="tran3s">Read More</a></p>
+								</div> <!-- /.post -->
+							</div> <!-- /.single-news-item -->
+						</div> <!-- /.col- -->
+					</div> <!-- /.clear-fix -->
+				</div> <!-- /.container -->
+			</div> <!-- /#blog-section -->
+
+
+
+			<!--
+			=====================================================
+				Partner Section
+			=====================================================
+			-->
+			<div id="partner-section">
+				<div class="container">
+					<div id="partner_logo" class="owl-carousel owl-theme">
+						<div class="item"><img src="images/logo/java.png" alt="logo"></div>
+						<div class="item"><img src="images/logo/php.png" alt="logo"></div>
+						<div class="item"><img src="images/logo/men2men.png" alt="logo"></div>
+						<div class="item"><img src="images/logo/graphic designing.png" alt="logo"></div>
+						<div class="item"><img src="images/logo/uxui.png" alt="logo"></div>
+						<div class="item"><img src="images/logo/men2men.png" alt="logo"></div>
+						
+					</div> <!-- End .partner_logo -->
+				</div> <!-- /.container -->
+			</div> <!-- /#partner-section -->
+
+
+
+			<!--
+			=====================================================
+				Contact Section
+			=====================================================
+			-->
+			<div id="contact-section">
+				<div class="container">
+					<div class="clear-fix contact-address-content">
+						<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"> -->
+						<div class="left-side">
+							<h2>Contact Info</h2>
+							<p>There are many variations of passages of Lorem Ipsum available, but the majori have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a pas of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. <br><br>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua.</p>
+
+							<ul>
+								<li>
+									<div class="icon tran3s round-border p-color-bg"><i class="fa fa-phone" aria-hidden="true"></i></div>
+										<h6>Phone</h6>
+										<p>+91 93000 - 16654</p>
+									</li>
+									<li>
+										<div class="icon tran3s round-border p-color-bg"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+										<p>India</p>
+									</li>
+							</ul>
+						</div> <!-- /.left-side -->
+					</div> 
+				</div> <!-- /.contact-address-content -->
+			</div>
+			
+		
+
+					<!-- Contact Form -->
+					<div class="container">
+						<div class="row">
+							<div class="col-6">
+								<form id="myForm" onsubmit="handleFormSubmit(this)">
+									<p class="h2 mb-4 text-center bg-primary">Contact Details</p>
+			
+									<div class="form-row">
+										<div class="form-group col-md-6">
+											<label for="first_name">First Name</label>
+											<input type="text" class="form-control" id="first_name" name="first_name" placeholder="First Name">
+										</div>
+										<div class="form-group col-md-6">
+											<label for="last_name">Last Name</label>
+											<input type="text" class="form-control" id="last_name" name="last_name" placeholder="Last Name">
+										</div>
+									</div>
+			
+									<div class="form-row">
+										<div class="form-group col-md-6">
+											<p>Gender</p>
+											<div class="form-check form-check-inline">
+												<input class="form-check-input" type="radio" name="gender" id="male" value="male">
+												<label class="form-check-label" for="male">Male</label>
+											</div>
+											<div class="form-check form-check-inline">
+												<input class="form-check-input" type="radio" name="gender" id="female" value="female">
+												<label class="form-check-label" for="female">Female</label>
+											</div>
+										</div>
+										<div class="form-group col-md-6">
+											<label for="dateOfBirth">Date of Birth</label>
+											<input type="date" class="form-control" id="dateOfBirth" name="dateOfBirth">
+										</div>
+									</div>
+			
+									<div class="form-group">
+										<label for="email">Email</label>
+										<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+									</div>
+			
+									<div class="form-group">
+										<label for="phone">Phone Number</label>
+										<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone Number">
+									</div>
+									<div class="form-group">
+										<label for="message">Message</label><br>
+										<textarea></textarea>
+									</div>
+			
+									<button type="submit" class="btn btn-primary btn-lg center-block">Submit</button>
+								</form>
+								<!-- <div id="output"></div> -->
+							</div>
+						</div>      
+						<a href="https://script.google.com/macros/s/AKfycbyBGTNqCRlbfSud_vnU7pQYO-HNwO5gJD10Bobc7x6lSzErh-A/exec">Registration Here Now</a>
+			</div>
+						<!-- <div class="container text-center">
+					<h4>Registration Form</h4>
+					<form>
+						First name:
+						<input type="text" id="fname" name="fname" placeholder="Enter your First Name"><br><br>
+						Last name:
+						<input type="text" id="lname" name="lname" placeholder="Enter Your Last Name"><br><br>
+						Gender:<input type="radio" id="male" name="gender" value="male"><label for="male">Male</label>
+						<input type="radio" id="female" name="gender" value="female"><label for="female">Female</label><br>
+						Email:<input type="text" id="email" name="email" placeholder="Enter Your Email"><br><br>
+						Mobile:<input type="text" id="Mobile" name="Mobile" placeholder="Enter Your Mobile"><br><br>
+						Message:<textarea name="message" ></textarea><br><br>
+						<input type="button" onclick="" value="submit">
+					  </form>
+				
+			</div>       -->
+					 <!-- /#contact-section -->
+
+			<!--
+			=====================================================
+				Footer
+			=====================================================
+			-->
+			<footer>
+				<div class="container">
+					<a href="index.html" class="logo"><img src="images/logo/t5logo.png" alt="Logo"></a>
+
+					<ul>
+						<li><a href="https://www.facebook.com/T5-Elements-Techno-Solution-102804504860123" class="tran3s round-border" title="Facebook" data-toggle="Facebook" data-placement="top"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/feed/" class="tran3s round-border" title="Linkedin" data-toggle="Linkedin" data-placement="top"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li><a href="https://web.skype.com/" class="tran3s round-border" title="Skype" data-toggle="Skype" data-placement="top"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/" class="tran3s round-border" title="Instagram" data-toggle="Instagram" data-placement="top"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="https://app.slack.com/client/T016UEVGHFZ/apps" class="tran3s round-border" title="Slack" data-toggle="Slack" data-placement="top"><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border" title="Googleplus" data-toggle="Googleplus" data-placement="top"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+						<li><a href="https://twitter.com/home" class="tran3s round-border" title="Twitter" data-toggle="Twitter" data-placement="top"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					</ul>
+					<p>Copyright ©2020 All rights reserved |  <i class="fa fa-heart"></i> by T5 Elements Techno Solution Team</p>
+				</div>
+			</footer>
+
+
+
+
+			<!-- =============================================
+				Loading Transition
+			============================================== -->
+			<div id="loader-wrapper">
+				<div id="preloader_1">
+					<img src="images/logo/t5colorfulllogo.png">
+					
+	                <!-- <span>elements</span>
+	                <span>Techno</span>
+	                <span>Solution</span>
+	                <span></span>
+	                <span></span> -->
+	            </div>
+			</div>
+
+			
+	        <!-- Scroll Top Button -->
+			<button class="scroll-top tran3s p-color-bg">
+				<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+			</button>
+
+
+
+
+		<!-- Js File_________________________________ -->
+
+		<!-- j Query -->
+		<script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
+
+		<!-- Bootstrap JS -->
+		<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+
+		<!-- Vendor js _________ -->
+		
+		<!-- revolution -->
+		<script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
+		<script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
+
+		<!-- Google map js -->
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ8VrXgGZ3QSC-0XubNhuB2uKKCwqVaD0&callback=goMap" type="text/javascript"></script> <!-- Gmap Helper -->
+		<script src="vendor/gmaps.min.js"></script>
+		<!-- owl.carousel -->
+		<script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
+		<!-- mixitUp -->
+		<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+		<!-- Progress Bar js -->
+		<script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
+		<!-- Validation -->
+		<script type="text/javascript" src="vendor/contact-form/validate.js"></script>
+		<script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
+
+
+		<!-- Theme js -->
+		<script type="text/javascript" src="js/theme.js"></script>
+		<!-- <?!= include('JavaScript'); ?> -->
+		<!-- <script type="text/javascript" src="js/map-script.js"></script> -->
+
+		
+	</body>
+</html>
